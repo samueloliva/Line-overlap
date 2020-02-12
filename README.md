@@ -2,7 +2,7 @@
 A library that checks if two lines overlap
 
 # Usage
-'''python
+```python
 
 # The following points defined two lines that are parallel
 p1 = Point(10,0)
@@ -25,5 +25,4 @@ p2 = Point(1,8)
 q2 = Point(1,4)
 Line.linesIntersect(p1, q1, p2, q2)
 
-
-'''
+```
