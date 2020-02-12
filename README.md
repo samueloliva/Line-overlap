@@ -4,6 +4,9 @@ A library that checks if two lines overlap
 # Examples
 ```python
 
+# import library
+from Points import *
+
 # The following points defined two lines that are parallel
 p1 = Point(10,0)
 q1 = Point(0,10)
