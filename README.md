@@ -1,7 +1,7 @@
 # Line-overlap
 A library that checks if two lines overlap
 
-# Usage
+# Examples
 ```python
 
 # The following points defined two lines that are parallel
