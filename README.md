@@ -2,6 +2,8 @@
 A library that checks if two lines overlap
 
 # Examples
+Run the code below or run the Example.py with python
+
 ```python
 
 # import library
